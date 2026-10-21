@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+*.egg-info/
+build/
+dist/
+
+# Training and export outputs
+runs/
+export/
+*.safetensors
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Editors / OS
+.DS_Store
+.zed/
+
+# Stray Node files
+node_modules/
+
+# Archives
+*.zip
+
+# Local env
+.env
